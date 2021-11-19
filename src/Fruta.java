@@ -5,6 +5,7 @@ public class Fruta {
 		// TODO Auto-generated method stub
 			System.out.print("HOLaaaaaaaaaaa");
 			String nombre="pepeeeeeeeee";
+			String apellido="Sales fernandez";
 	}
 
 }
